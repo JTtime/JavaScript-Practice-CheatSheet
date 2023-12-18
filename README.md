@@ -1,3 +1,5 @@
+You can Star This repository if you feel this is worth for Javascript Beginner level aspirants
+
 # JavaScript-Practice-CheatSheet
 Download CheatSheet for practicing javascript and accelerate your learnings
 https://youtube.com/watch?v=mAHSpzS6A2o&si=UUNC0OlBBG5hPFOa
