@@ -1,0 +1,21 @@
+JTtime Coding:
+https://github.com/JTtime
+https://twitter.com/JTtime_C
+https://www.linkedin.com/in/jeevraj-taralkar-69103829
+CopyRight: Jeevraj Taralkar
+
+
+4 steps of DOM Manipulation
+
+
+1) Select Element, under which you need to add new Element or Elements
+    a. const existingElement = document.getElementById(‘ExistingElement’);
+2) Create new Element or Elements
+    a. const newElement = document.createElement(‘div’);
+3) Add content to the Elements
+    a. newElement.innerHTML = ‘<a>content of newly created elements</a>’
+4) Append this newly created element with content to selected existing elements
+    a. existingElement.append(newElement)
+
+    
+Practise using any CSS frameworks and play with DOM Manipulation to create conditional rendered components under iteration
